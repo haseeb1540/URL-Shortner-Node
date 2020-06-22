@@ -2,8 +2,8 @@
 var express = require('express');
 // Create our Express application
 var app = express();
-var configauth = require('./config');
-app.set('superSecret', configauth.secret); // secret variable
+// var configauth = require('./config');
+// app.set('superSecret', configauth.secret); // secret variable
 
 app.use(function(req, res, next) {
     res.setHeader('Access-Control-Allow-Origin', '*');
