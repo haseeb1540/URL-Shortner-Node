@@ -9,6 +9,7 @@ module.exports = function(app) {
                     shortUrl.short(initialUrl, function(err, url){
                         array[0]=url
                         array[1]=initialUrl
+                        array[2] = new Date();
                     res.json({ "result": array });
                     });
                     
