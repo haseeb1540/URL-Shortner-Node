@@ -1,0 +1,4 @@
+daemon
+logs.json
+config.js
+node_modules/
