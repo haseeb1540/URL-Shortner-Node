@@ -14,7 +14,7 @@
     "express-handlebars": "^2.0.1",
     "filereader": "^0.10.3",
     "handlebars": "^4.0.5",
-    "highcharts": "^5.0.14",
+    "highcharts": "^6.1.0",
     "highcharts-server": "^1.0.2",
     "html-pdf": "^2.1.0",
     "jquery": "^3.2.1",
