@@ -19,7 +19,7 @@
     "html-pdf": "^2.1.0",
     "jquery": "^3.2.1",
     "json2csv": "^3.11.5",
-    "jsonwebtoken": "^7.4.3",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.13.0",
     "moment-timezone": "^0.5.13",
     "msexcel-builder": "0.0.2",
